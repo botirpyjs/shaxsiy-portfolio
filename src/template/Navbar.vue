@@ -4,7 +4,7 @@
     <router-link to="/akhbotir">Akhmedov BotirKhan</router-link>
     <router-link to="/botirstudio">BoTiR sTuDiO</router-link>
     <router-link to="/uzcoders">UzCoders Group Solutions</router-link>
-    <router-link to="/akhbotir">Hamjamiyat</router-link>
+    <router-link to="/akhbotir">Qo'shimcha ma'lumot</router-link>
     <router-link to="/akhbotir">Izoh</router-link>
   </div>
 </template>
